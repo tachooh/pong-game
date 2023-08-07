@@ -16,6 +16,10 @@ A classic Pong game recreated using HTML, CSS, and JavaScript. Challenge your re
 
 Pong Game is a web-based version of the iconic Pong arcade game, where players control paddles to hit a ball back and forth. This project serves as a fun way to learn and practice web development skills while recreating a classic game loved by many.
 
+## Demo
+
+Check out the live demo of the Pong Game [here]([https://your-username.github.io/pong-game-demo](https://tachooh.github.io/pong-game/)).
+
 ## Features
 
 - **Two-player gameplay:** Challenge a friend or play against the computer-controlled opponent.
