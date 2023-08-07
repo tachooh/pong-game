@@ -18,7 +18,7 @@ Pong Game is a web-based version of the iconic Pong arcade game, where players c
 
 ## Demo
 
-Check out the live demo of the Pong Game [here](https://your-username.github.io/pong-game-demo](https://tachooh.github.io/pong-game/)).
+Check out the live demo of the Pong Game [here](https://your-username.github.io/pong-game-demo](https://tachooh.github.io/pong-game/).
 
 ## Features
 
