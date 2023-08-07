@@ -5,8 +5,30 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column; /* Add this line */
 }
 
 canvas {
     border: 2px solid #FFF;
+}
+
+#message {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.centered-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    display: block;
+}
+
+.blur-effect {
+    filter: blur(2px);
 }
